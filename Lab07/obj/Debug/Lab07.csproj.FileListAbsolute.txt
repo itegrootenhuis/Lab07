@@ -1,0 +1,9 @@
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\obj\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\obj\Debug\Lab07.pdb
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Documents\GrandCircus\Lab07\Lab07\bin\Debug\Newtonsoft.Json.xml
